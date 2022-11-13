@@ -1,0 +1,95 @@
+{
+  "donators": [
+    {
+      "name": "Axl",
+      "ids": ["#MTK3Z5"],
+      "discordId": "589527075447111681",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/1010612280775422093/1019727079320854528/rsz_2667.png"
+    },
+    {
+      "name": "Prod",
+      "ids": ["#4DD3XZ"],
+      "discordId": "1011034797595959316",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1027331355656331376/unknown.png"
+    },
+    {
+      "name": "infi",
+      "ids": ["#2Q0QKL"],
+      "discordId": "327812142101168128",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1020042667276632084/devbadge.png"
+    },
+    {
+      "name": "boden",
+      "ids": ["#YYRHG7"],
+      "discordId": "517402093066256404",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1020042667276632084/devbadge.png"
+    },
+    {
+      "name": "SheriffCarry",
+      "ids": ["#W5J3AB"],
+      "discordId": "619377929951903754",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/737761552006119525/1020352643283038249/catgirl.png"
+    },
+    {
+      "name": "l1cas",
+      "ids": ["#6FIJZY"],
+      "discordId": "714071002400686121",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "yzzz",
+      "ids": ["#HVCL3P"],
+      "discordId": "863284501202731008",
+      "tier": 3,
+      "customBadge": "https://cdn.discordapp.com/attachments/738010330780926004/1020868588573302836/yzzz.png"
+    },
+    {
+      "name": "tay-k",
+      "ids": ["#7PWLQI"],
+      "discordId": "817265111144071188",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "zerg",
+      "ids": ["#FAYQ0E"],
+      "discordId": "823888160886358056",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "OniBeast",
+      "ids": ["#QCZSZK"],
+      "discordId": "663356370740838400",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Kosh",
+      "ids": ["#6L1WRO"],
+      "discordId": "341644874761764864",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "zombie",
+      "ids": ["#Z37B0Z"],
+      "discordId": "975466657197740032",
+      "tier": 2,
+      "customBadge": ""
+    },
+    {
+      "name": "Aphetz",
+      "ids": ["#4OLBCJ"],
+      "discordId": "556661218014789644",
+      "tier": 2,
+      "customBadge": ""
+    }
+  ]
+}
